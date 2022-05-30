@@ -1,0 +1,21 @@
+{
+  "name": "02_webpack",
+  "version": "1.0.0",
+  "description": "webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "js",
+    "webpack"
+  ],
+  "author": "Kolesnikova <k@mail.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
